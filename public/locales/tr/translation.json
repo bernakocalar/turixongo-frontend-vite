@@ -1,0 +1,13 @@
+{
+  "navigator": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "services": "Hizmetler",
+    "blog": "Blog",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "campaigns": "Kampanyalar",
+    "hotels": "Oteller"
+  }
+}
